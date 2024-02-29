@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple blogging website project called "Daily Journal". It is built using HTML and SASS only, demonstrate the proficiency in advanced CSS with SASS and HTML techniques to create a responsive and visually appealing website. The project includes different pages such as Home, About, Contact, and Compose Blog.
+"Daily Journal" is a sleek blogging website crafted with HTML and SASS, showcasing advanced CSS techniques for responsiveness. Utilizing SASS features like variables, nesting, and mixins, the site achieves a cohesive design while ensuring ease of maintenance. From Home to Compose Blog, each page is tailored for an optimal user experience across devices
 
 ## How to Run
 
@@ -23,5 +23,5 @@ Alternatively, you can view the deployed version of the website at https://abdur
 ## Additional Information
 
 - The project structure is organized with separate HTML files for each page.
-- Advanced CSS with SCSS are defined in the `main.scss` file.
+- Advanced CSS with SASS are defined in the `main.scss` file.
 - All images used in the project are stored in the `images` folder.
