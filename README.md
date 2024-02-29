@@ -23,5 +23,5 @@ Alternatively, you can view the deployed version of the website at https://abdur
 ## Additional Information
 
 - The project structure is organized with separate HTML files for each page.
-- Advanced SCSS are defined in the `main.scss` file.
+- Advanced CSS with SCSS are defined in the `main.scss` file.
 - All images used in the project are stored in the `images` folder.
